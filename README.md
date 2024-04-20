@@ -1,4 +1,5 @@
-# w281_final_galaxy_zoo
+# w281_final_galaxy_zoo_classification
+- Galaxy_Zoo_Classification_Report
 - data_split:
     Split the data into training, validation and testing
 - image_preprocessing: 
